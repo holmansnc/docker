@@ -1,0 +1,7 @@
+2021/01/16 05:26:27 [error] 242#242: *1 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "127.0.0.1:81"
+2021/01/16 05:26:33 [error] 242#242: *3 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "127.0.0.1:81"
+2021/01/16 05:26:38 [error] 242#242: *5 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "127.0.0.1:81"
+2021/01/16 05:26:43 [error] 242#242: *7 connect() failed (111: Connection refused) while connecting to upstream, client: 127.0.0.1, server: nginxproxymanager, request: "GET /api/ HTTP/1.1", upstream: "http://127.0.0.1:3000/", host: "127.0.0.1:81"
+2021/01/16 05:27:14 [warn] 315#315: 1024 worker_connections are not enough, reusing connections
+2021/01/16 07:22:43 [warn] 6381#6381: 1024 worker_connections are not enough, reusing connections
+2021/01/24 00:22:33 [warn] 1133530#1133530: 1024 worker_connections are not enough, reusing connections
